@@ -1,0 +1,7 @@
+C:\Users\stguser\documents\visual studio 2010\Projects\STGCodeChallenge2\STGCodeChallenge2\bin\Debug\STGCodeChallenge2.exe
+C:\Users\stguser\documents\visual studio 2010\Projects\STGCodeChallenge2\STGCodeChallenge2\bin\Debug\STGCodeChallenge2.pdb
+C:\Users\stguser\documents\visual studio 2010\Projects\STGCodeChallenge2\STGCodeChallenge2\obj\x86\Debug\STGCodeChallenge2.Form1.resources
+C:\Users\stguser\documents\visual studio 2010\Projects\STGCodeChallenge2\STGCodeChallenge2\obj\x86\Debug\STGCodeChallenge2.Properties.Resources.resources
+C:\Users\stguser\documents\visual studio 2010\Projects\STGCodeChallenge2\STGCodeChallenge2\obj\x86\Debug\STGCodeChallenge2.csproj.GenerateResource.Cache
+C:\Users\stguser\documents\visual studio 2010\Projects\STGCodeChallenge2\STGCodeChallenge2\obj\x86\Debug\STGCodeChallenge2.exe
+C:\Users\stguser\documents\visual studio 2010\Projects\STGCodeChallenge2\STGCodeChallenge2\obj\x86\Debug\STGCodeChallenge2.pdb
